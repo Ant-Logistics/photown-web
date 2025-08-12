@@ -17,7 +17,7 @@ const Header = () => {
           <a href="/">
             <div className="flex items-center cursor-pointer">
               <Image
-                src="assets/images/logo_new.svg"
+                src="https://www.photawn.com/assets/images/logo_new.svg"
                 alt="PHO-TAWN Logo"
                 width={200}
                 height={80}

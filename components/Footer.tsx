@@ -42,7 +42,15 @@ export default function Footer() {
         <div className="mt-8 md:mt-0 ">
           <h3 className="font-bold text-lg">Quick Links</h3>
           <hr className="my-2 border-gray-300" />
-        
+            <a href="/what-we-do" className="block py-1 rounded text-blue-900 hover:bg-gray-100">
+               What We Do
+            </a>
+            <a href="/how-we-do" className="block py-1 rounded text-blue-900 hover:bg-gray-100">
+              How We Do
+            </a>
+            <a href="/other-services" className="block py-1 rounded text-blue-900 hover:bg-gray-100">
+              Other Services
+            </a>
         </div>
       </div>
 
