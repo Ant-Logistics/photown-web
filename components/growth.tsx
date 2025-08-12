@@ -30,7 +30,7 @@ export default function Growth() {
                                         height={40}
                                         className="mx-auto mb-1" />
                                     <div className="text-[80px] py-2 leading-[82px] font-extrabold text-[#0867bb]">10</div>
-                                    <p className="text-base text-black">Hub</p>
+                                    <p className="text-base text-black">Hubs</p>
                                 </div>
                             </div>
                         </div>

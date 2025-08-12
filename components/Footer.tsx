@@ -40,14 +40,14 @@ export default function Footer() {
 
         {/* Quick Links */}
         <div className="mt-8 md:mt-0 ">
-          <h3 className="font-bold text-lg">Quick Link</h3>
+          <h3 className="font-bold text-lg">Quick Links</h3>
           <hr className="my-2 border-gray-300" />
         
         </div>
       </div>
 
       <div className="text-center mt-8 text-sm text-gray-500">
-        © 2024 Pho-Tawn Logistics. All Rights Reserved.
+        © 2025 Photawn Logistics. All Rights Reserved.
       </div>
     </footer>
   );
