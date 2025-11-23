@@ -22,7 +22,7 @@ export default function PartnerWithUs() {
     const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         try {
-            const response = await fetch("https://formspree.io/f/xpwrdpqq", {
+            const response = await fetch("https://formspree.io/f/mgvqqoba", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
