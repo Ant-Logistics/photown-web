@@ -87,7 +87,8 @@ export default function PartnerWithUs() {
                                 required
                             >
                                 <option value="">Select a category</option>
-                                <option value="Retail">Retail</option>
+                                <option value="Beauty">Beauty</option>
+                                <option value="Children">Children</option>
                                 <option value="E-commerce">E-commerce</option>
                                 <option value="Logistics">Logistics</option>
                                 <option value="Other">Other</option>
