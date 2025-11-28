@@ -92,7 +92,11 @@ export default function PartnerWithUs() {
                                 <option value="Consumer_Electronics">Consumer Electronics</option>
                                 <option value="Eyewear">Eyewear</option>
                                 <option value="E-commerce">E-commerce</option>
-                                <option value="Logistics">Logistics</option>
+                                <option value="Fashion">Fashion</option>
+                                <option value="Health_and_Wellness">Health and Wellness</option>
+                                <option value="Home_&_Kitchen">Home & Kitchen</option>
+                                <option value="Pet_care">Pet care</option>
+                                <option value="3PL_Service_Provider">3PL Service Provider</option>
                                 <option value="Other">Other</option>
                             </select>
                         </div>
