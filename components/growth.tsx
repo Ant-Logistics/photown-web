@@ -8,7 +8,7 @@ export default function Growth() {
         <>
             <section className="bg-white py-16">
                 <div className="container w-full max-w-[1000px] mx-auto px-6 text-center flex flex-col items-center lg:flex-row">
-                    {/* Create Two Div 50 50  */}
+                    {/* Create Two Div 50 50   */}
                     <div className="lg:w-[50%] w-full py-4 flex gap-4 flex-wrap flex-col">
                         <div className="flex gap-4">
                             <div className="w-40 bg-blue-200 rounded-lg shadow-md py-4">
