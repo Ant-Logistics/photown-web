@@ -18,7 +18,7 @@ export default function Growth() {
                                         width={40}
                                         height={40}
                                         className="mx-auto mb-1" />
-                                    <div className="text-[80px] py-2 leading-[82px] font-extrabold text-[#0867bb]">1</div>
+                                    <div className="text-[80px] py-2 leading-[82px] font-extrabold text-[#0867bb]">2</div>
                                     <p className="text-base text-black">Cities Presence</p>
                                 </div>
                             </div>
